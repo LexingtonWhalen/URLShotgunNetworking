@@ -3,7 +3,7 @@
 ## Word analysis via scraping URL networks.
 
 ## :cinema: Video:
-* 
+* https://youtu.be/bOyFGZAzX5s
 
 ## :grey_question: What is it?
 * Creates a network-tree of URLs based on a seed URL. Each found URL can create a new branch. From those branches, you can scrape the most common Japanese (or any language) words. Creates a CSV of the most frequent words from all of the URLs stored in the tree.
