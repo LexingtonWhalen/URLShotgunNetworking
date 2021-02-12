@@ -22,5 +22,5 @@
 * jsoup: https://jsoup.org/
 
 ###### :hammer: To do:
-I will likely create a similar version of this for webscraping. Maybe later on I will make a GUI for it too. Good way to learn Java!
+Need to fix bug where some of the links are the same. Since certain page links are simply just links to different parts of the same page, it is difficult to get rid of those duplicates since technically their URLs are different. However, due to the nature of most pages and the sheer amount of URLs on pages, this duplication is typically not overpowering.
 
